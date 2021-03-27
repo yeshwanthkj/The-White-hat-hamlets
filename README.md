@@ -1,6 +1,6 @@
 # The White Hat Hamlet
 In this project we have made a webiste and indulged "Recent cyber crimes","statistics of cyber crimes","Q & A forum" and also to make people aware of cyber crimes.
-"https://hiranmayee1123.github.io/The-White-Hat-Hamlet/index.html" This is the link of our website and we hosted it through github-pages.
+"https://yeshwanthkj.github.io/The-White-hat-hamlets/" This is the link of our website and we hosted it through github-pages.
 # Here is a detailed explanation about our website..
 
 # 1.This is how our home page looks like...You can navigate to menu bars and see the related topic!!
